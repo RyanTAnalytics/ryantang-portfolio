@@ -7,4 +7,4 @@ I'm all about finding those hidden gems in complex datasets and turning them int
 
 I'm excited to bring my analytical skills and a dash of psychological insight to the table, helping to drive smart, impactful decisions and make a real difference. Let's turn data into stories and insights together!
 
-### [Project 1: Data Analysis of Brazilian E-Commerce Dataset with Panda](Data_Analysis_Using_Python.markdown)
+### [Project 1: Data Analysis of Brazilian E-Commerce Dataset with Panda](Data_Analysis_Using_Python.ipynb)
