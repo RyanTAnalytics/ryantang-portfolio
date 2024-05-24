@@ -14,12 +14,12 @@ This was an independent project where I conducted a comprehensive data analysis 
 * Processes include: Data Inspection (shape, info), Data Summaries (describe, value counts), Data Transformation & Wrangling (Identifying missing data and filling them in), Merging Data (Joining), Data Cleaning (Converting data types, defining functions to further break down categories), Data Analysis (Grouping and Summarizing), Data Visualization (bar graphs, line graphs), Conclusions & Suggestions (visualization interpretion)
 * The complete code can be viewed [here](https://colab.research.google.com/drive/1tl5_W9UquLwBI2cOb1xKGSsOblcCQ7Ax?usp=sharing) or by clicking on the title.
 
-### [Project 2: Exploratory Data Analysis (EDA) using RStudio](EDA_with_Rstudio.html)
+### [Project 2: Exploratory Data Analysis (EDA) using RStudio](EDA_with_RStudio.html)
 This was a quantitive research project with 6 memberse where an exploratory data analysis (EDA) was conducted on RStudio with essential packages like tidyverse and ggplot completed as part of Data Analytics for Psychology coursework.
 * Research Title: The Relationship between Family Size and Depression, Gender as Moderator
 * Train samples were provided with over 32k observations
 * Processes include: Data Extraction (view, glimpse), Data Selection, Data Screening (skim), Data Wrangling and Preparation (mutate, filter), Data Analysis (describe, counts), Data Visualization (histogram, boxplots)
-* The complete code can be viewed [here](EDA_with_Rstudio.html) or by clicking on the title.
+* The complete code can be viewed [here](EDA_with_RStudio.html) or by clicking on the title.
 
 ### [Project 3: Confirmatory Data Analysis (CDA) using RStudio](CDA_with-Rstudio.html)
 Continuing from the previously done EDA, a confirmatory data analysis (CDA) was conducted on RStudio to test the hypotheses completed as part of Data Analytics for Psychology coursework.
