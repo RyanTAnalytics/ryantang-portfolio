@@ -7,12 +7,12 @@ I'm all about finding those hidden gems in complex datasets and turning them int
 
 I'm excited to bring my analytical skills and a dash of psychological insight to the table, helping to drive smart, impactful decisions and make a real difference. Let's turn data into stories and insights together!
 
-### [Project 1: Data Analysis of Brazilian E-Commerce Dataset with Python](Data_Analysis_Using_Python.ipynb)
+### [Project 1: Data Analysis of Brazilian E-Commerce Dataset with Python](https://colab.research.google.com/drive/1tl5_W9UquLwBI2cOb1xKGSsOblcCQ7Ax?usp=sharing)
 This was an independent project where I conducted a comprehensive data analysis from asking questions to providing suggestions using Pandas and Matplotlib in Python. 
 * The analysis was done on the Brazilian ecommerce public dataset of orders made at Olist Store that can be accessed [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_order_items_dataset.csv).
 * The analysis focused on data from 2017 which had with over 70k datapoints.
 * Processes include: Data Inspection (shape, info), Data Summaries (describe, value counts), Data Transformation & Wrangling (Identifying missing data and filling them in), Merging Data (Joining), Data Cleaning (Converting data types, defining functions to further break down categories), Data Analysis (Grouping and Summarizing), Data Visualization (bar graphs, line graphs), Conclusions & Suggestions (visualization interpretion)
-* The complete code can be viewed [here]() or by clicking on the title.
+* The complete code can be viewed [here](https://colab.research.google.com/drive/1tl5_W9UquLwBI2cOb1xKGSsOblcCQ7Ax?usp=sharing) or by clicking on the title.
 
 ### [Project 2: Exploratory Data Analysis (EDA) using RStudio](EDA_with_Rstudio.html)
 This was a quantitive research project with 6 memberse where an exploratory data analysis (EDA) was conducted on RStudio with essential packages like tidyverse and ggplot completed as part of Data Analytics for Psychology coursework.
