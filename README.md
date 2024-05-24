@@ -21,13 +21,13 @@ This was a quantitive research project with 6 memberse where an exploratory data
 * Processes include: Data Extraction (view, glimpse), Data Selection, Data Screening (skim), Data Wrangling and Preparation (mutate, filter), Data Analysis (describe, counts), Data Visualization (histogram, boxplots)
 * The complete code can be viewed [here](EDA_with_RStudio.html) or by clicking on the title.
 
-### [Project 3: Confirmatory Data Analysis (CDA) using RStudio](CDA_with-Rstudio.html)
+### [Project 3: Confirmatory Data Analysis (CDA) using RStudio](CDA_with-RStudio.html)
 Continuing from the previously done EDA, a confirmatory data analysis (CDA) was conducted on RStudio to test the hypotheses completed as part of Data Analytics for Psychology coursework.
 * Research Title: The Relationship between Family Size and Depression, Gender as Moderator
 * Test samples were provided with over 32k observations
 * Models and Analyses include: Moderation Analysis via Linear Regression, Assumption Testing, Model Fitting, Reliability Analysis (alpha model)
 * The predictive metrics were obtained and the model was optimized using k-fold cross-validation.
-* The complete code can be viewed [here](CDA_with_Rstudio.html) or by clicking on the title.
+* The complete code can be viewed [here](CDA_with_RStudio.html) or by clicking on the title.
 
 
 
