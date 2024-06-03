@@ -1,4 +1,4 @@
-### About Me
+## 👨‍💼 About Me
 Hi there, fellow data enthusiast! I'm Ryan, an aspiring Data Analyst with a background in Psychology. This combination gives me a unique edge in understanding data and the stories it tells about human behavior.
 
 During my studies, I dived deep into research methods, statistical analysis, and data interpretation, using tools like RStudio, Qualtrics, and Excel. I've had hands-on experience with both qualitative and quantitative projects, which has sharpened my skills in data collection, analysis, and visualization.
@@ -7,7 +7,7 @@ I'm all about finding those hidden gems in complex datasets and turning them int
 
 I'm excited to bring my analytical skills and a dash of psychological insight to the table, helping to drive smart, impactful decisions and make a real difference. Let's turn data into stories and insights together!
 
-### Table of Contents
+## 📚 Table of Contents
 - [Python](##Python)
 - [RStudio](##RStudio)
 - [Spreadsheets](##Spreadsheets)
