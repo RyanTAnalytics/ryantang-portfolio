@@ -8,9 +8,9 @@ I'm all about finding those hidden gems in complex datasets and turning them int
 I'm excited to bring my analytical skills and a dash of psychological insight to the table, helping to drive smart, impactful decisions and make a real difference. Let's turn data into stories and insights together!
 
 ## 📚 Table of Contents
-- [Python](##python)
-- [RStudio](##rstudio)
-- [Spreadsheets](##spreadsheets)
+- [Python](#python)
+- [RStudio](#rstudio)
+- [Spreadsheets](#spreadsheets)
 - SQL
 
 ## Python
