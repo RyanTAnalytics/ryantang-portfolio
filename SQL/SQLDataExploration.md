@@ -8,6 +8,9 @@ FROM CovidDeaths
 WHERE location = 'Malaysia'
 ORDER BY 1, 2
 ```
+Output:
+
+![image](https://github.com/RyanTAnalytics/ryantang-portfolio/assets/170547496/8f721020-2b26-444e-b71f-411e40700c4f)
 
 ### Total Cases vs Population
 ```sql
@@ -16,6 +19,9 @@ FROM CovidDeaths
 WHERE location = 'Malaysia'
 ORDER BY 1, 2
 ```
+Output:
+
+![image](https://github.com/RyanTAnalytics/ryantang-portfolio/assets/170547496/ad97809f-572b-4b9b-8741-b8dda212122b)
 
 ### Countries with the Highest Infection Rate vs Populations
 ```sql
@@ -25,6 +31,9 @@ WHERE population <> 0
 GROUP BY location, population
 ORDER BY InfectionPercentage DESC
 ```
+Output:
+
+![image](https://github.com/RyanTAnalytics/ryantang-portfolio/assets/170547496/c712d8f7-8910-40ce-8f9c-7218f449d340)
 
 ### Countries with the Highest Death Count per Population
 ```sql
@@ -33,6 +42,9 @@ FROM CovidDeaths
 GROUP BY location
 ORDER BY TotalDeathCount DESC
 ```
+Output:
+
+![image](https://github.com/RyanTAnalytics/ryantang-portfolio/assets/170547496/0a8d9922-63b5-47f9-bf57-c76cac1f0857)
 
 ### Countries with the Highest Death Count per Continent
 ```sql
@@ -41,11 +53,18 @@ FROM CovidDeaths
 GROUP BY continent
 ORDER BY TotalDeathCount DESC
 ```
+Output:
+
+![image](https://github.com/RyanTAnalytics/ryantang-portfolio/assets/170547496/6cfed593-7fc8-4bc3-a5e7-09aed3267021)
+
 ### Global Numbers
 ```sql
 SELECT SUM(new_cases) as total_cases, SUM(new_deaths) as total_deaths, (SUM(new_deaths)/SUM(new_cases))*100 as DeathPercentage
-FROM PortfolioProject..CovidDeaths
+FROM CovidDeaths
 ```
+Output:
+
+![image](https://github.com/RyanTAnalytics/ryantang-portfolio/assets/170547496/114eb4ed-1cba-4854-8cb4-87e6b11cb75c)
 
 ### Total Population vs Vaccinations
 ```sql
@@ -57,6 +76,9 @@ JOIN CovidVaccinations vac
 WHERE dea.continent <> ' '
 ORDER BY 2, 3
 ```
+Output:
+
+![image](https://github.com/RyanTAnalytics/ryantang-portfolio/assets/170547496/fce1deed-00a1-49ea-b902-26ad9cf08c72)
 
 ### Creating View to Store Data for Later Visualizations and Analysis
 ```sql
