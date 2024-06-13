@@ -11,7 +11,7 @@ I'm excited to bring my analytical skills and a dash of psychological insight to
 - [Python](#python)
 - [RStudio](#rstudio)
 - [Spreadsheets](#spreadsheets)
-- SQL
+- [SQL](#sql)
 
 ## Python
 ### [Data Analysis of Brazilian E-Commerce Dataset with Python](https://colab.research.google.com/drive/1tl5_W9UquLwBI2cOb1xKGSsOblcCQ7Ax?usp=sharing)
@@ -50,4 +50,7 @@ This was an independent project where an analysis was conducted on a bike sales 
 * Simple, insightful visualizations were created from Pivot Tables and a comprehensive dashboard was built for the company to understand their customer demographics better.
 * Processes include: Recoming duplicates/nulls, Find and Replace, Changing data format, Creating categories with `IF` statements, Creating PivotTables, Adding Charts, Building Dashboards.
 * The excel file can be downloaded [here](Spreadsheets/Excel Project Dataset.xlsx) or by clicking on the title.
+
+## SQL
+### [Exploration of Global COVID-19 Dataset using SQL](SQL/SQLDataExploration.md)
 
