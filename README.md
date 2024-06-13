@@ -1,4 +1,4 @@
-## 👨‍💼 About Me
+## 🧑‍💻 About Me
 Hi there, fellow data enthusiast! I'm Ryan, an aspiring Data Analyst with a background in Psychology. This combination gives me a unique edge in understanding data and the stories it tells about human behavior.
 
 During my studies, I dived deep into research methods, statistical analysis, and data interpretation, using tools like RStudio, Qualtrics, and Excel. I've had hands-on experience with both qualitative and quantitative projects, which has sharpened my skills in data collection, analysis, and visualization.
@@ -53,4 +53,13 @@ This was an independent project where an analysis was conducted on a bike sales 
 
 ## SQL
 ### [Exploration of Global COVID-19 Dataset using SQL](SQL/SQLDataExploration.md)
+This was a independent exploratory analysis of a large global COVID-19 dataset using SQL queries to manipulate, transform, and extract insight out of the data.
+* The raw data is open-source, and is publically available [here](https://ourworldindata.org/covid-deaths).
+* The raw data contained around 190k rows from countries all over the world.
+* Processes include: Filtering, Sorting, Joining, Aggregate Functions, Casting, Aliasing, Creating Views
+* The complete code can be viewed [here](SQL/SQLDataExploration.md) or by clicking on the title.
+
+
+
+
 
